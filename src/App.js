@@ -33,7 +33,7 @@ const PäckerWebsite = () => {
             </div>
             <div className="md:w-1/2 mt-12 md:mt-0">
               <img
-                src="https://raw.githubusercontent.com/siserman/paeckerwebsite/main/assets/paek_img_001.png"
+                src="https://raw.githubusercontent.com/siserman/paeckerwebsite/main/images/paek_img_011.png"
                 alt="Päcker trailer attached to bicycle"
                 className="w-full rounded-lg shadow-2xl"
               />
@@ -84,10 +84,10 @@ const PäckerWebsite = () => {
           <h2 className="text-3xl font-bold text-white text-center mb-16">Engineered for Excellence</h2>
           <div className="grid md:grid-cols-2 gap-8">
             <div className="space-y-8">
-              <img
-                src="/api/placeholder/600/400"
-                alt="Päcker connection mechanism detail"
-                className="w-full rounded-lg shadow-lg"
+            <img
+                src="https://raw.githubusercontent.com/siserman/paeckerwebsite/main/images/paek_img_014.png"
+                alt="Päcker trailer attached to bicycle"
+                className="w-full rounded-lg shadow-2xl"
               />
               <div className="p-6 bg-black rounded-lg">
                 <h3 className="text-xl font-semibold text-white mb-4">Quick-Connect System</h3>
@@ -97,10 +97,10 @@ const PäckerWebsite = () => {
               </div>
             </div>
             <div className="space-y-8">
-              <img
-                src="/api/placeholder/600/400"
-                alt="Päcker folded configuration"
-                className="w-full rounded-lg shadow-lg"
+            <img
+                src="https://raw.githubusercontent.com/siserman/paeckerwebsite/main/images/paek_img_010.png"
+                alt="Päcker trailer attached to bicycle"
+                className="w-full rounded-lg shadow-2xl"
               />
               <div className="p-6 bg-black rounded-lg">
                 <h3 className="text-xl font-semibold text-white mb-4">Compact Storage</h3>
