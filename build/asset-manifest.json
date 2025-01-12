@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/paeckerwebsite/static/css/main.35dc2841.css",
+    "main.js": "/paeckerwebsite/static/js/main.04a5e65a.js",
+    "index.html": "/paeckerwebsite/index.html",
+    "main.35dc2841.css.map": "/paeckerwebsite/static/css/main.35dc2841.css.map",
+    "main.04a5e65a.js.map": "/paeckerwebsite/static/js/main.04a5e65a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.35dc2841.css",
+    "static/js/main.04a5e65a.js"
+  ]
+}
