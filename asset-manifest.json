@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/paeckerwebsite/static/css/main.35dc2841.css",
-    "main.js": "/paeckerwebsite/static/js/main.88326b19.js",
+    "main.css": "/paeckerwebsite/static/css/main.0c531589.css",
+    "main.js": "/paeckerwebsite/static/js/main.32666981.js",
     "index.html": "/paeckerwebsite/index.html",
-    "main.35dc2841.css.map": "/paeckerwebsite/static/css/main.35dc2841.css.map",
-    "main.88326b19.js.map": "/paeckerwebsite/static/js/main.88326b19.js.map"
+    "main.0c531589.css.map": "/paeckerwebsite/static/css/main.0c531589.css.map",
+    "main.32666981.js.map": "/paeckerwebsite/static/js/main.32666981.js.map"
   },
   "entrypoints": [
-    "static/css/main.35dc2841.css",
-    "static/js/main.88326b19.js"
+    "static/css/main.0c531589.css",
+    "static/js/main.32666981.js"
   ]
 }
